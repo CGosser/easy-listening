@@ -12,8 +12,12 @@ export class AlbumService {
     return this.albums;
   }
 
-  getAlbumById(albumId: number){
+  getAlbumById(albumId: string){
      return this.database.object('albums/' + albumId);
+  }
+
+  addAlbum(newAlbum: Album) {
+    this.albums.push(newAlbum);
   }
 
 }

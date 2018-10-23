@@ -9,9 +9,9 @@
     "description": "Her highest-selling and most acclaimed album, released in 1996.",
     "id": "2"
       }, {
-    "title": "Axis Bold As Love",
-    "artist": "Jimi Hendrix",
-    "description": "Second studio album by the English-American band, released in 1967.",
+    "title": "Trout Mask Replica",
+    "artist": "Captain Beefheart",
+    "description": "In preparation, the group rehearsed Van Vliet's difficult compositions for eight months, living communally in a small rented house in the Woodland Hills suburb of Los Angeles. Van Vliet implemented his vision by asserting complete artistic and emotional domination of his musicians. At various times one or another of the group members was put 'in the barrel', with Van Vliet berating him continually, sometimes for days, until the musician collapsed in tears or in total submission to Van Vliet. According to John French and Bill Harkleroad these sessions often included physical violence. French described the situation as 'cultlike' and a visiting friend said 'the environment in that house was positively Manson-esque'.",
     "id": "3"
   },
   {
@@ -25,5 +25,24 @@
   "artist": "Pigface",
   "description": "That one with the one that was good, you know, duuuuu8de.",
   "id": "5"
-  }]
+  },
+  {
+  "title": "Sexplosion",
+  "artist": "My Life with the Thrill Kill Kult",
+  "description": "perverted and sick",
+  "id": "6"
+  },
+  {
+  "title": "Horse Rotorvator",
+  "artist": "Coil",
+  "description": "man this one is just weird",
+  "id": "7"
+  },
+  {
+  "title": "20 jazz funk greats",
+  "artist": "Throbbing gristle",
+  "description": "listen to it yourself... pleb",
+  "id": "8"
+  },
+  ]
 }
